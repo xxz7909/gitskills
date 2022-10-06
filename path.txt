@@ -1,0 +1,1 @@
+/home/xixi/.yarn/bin:/home/xixi/.config/yarn/global/node_modules/.bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/xixi/files/ycm/cmake-3.22.4-linux-x86_64/bin:/usr/local/llvm/bin:/home/xixi/software/cmake-3.22.4-linux-x86_64/bin
